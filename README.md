@@ -1,1 +1,2 @@
 # CookieClickerProject
+I got bored
